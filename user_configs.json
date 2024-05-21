@@ -1,0 +1,11 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/Palafx/CustomCardGuy",
+			"repo_name": "Custom Card Guy's cards",
+			"repo_path": "./repositories/CCG Customs",
+			"should_update": true,
+			"should_read": true
+		}
+	]
+}
